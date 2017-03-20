@@ -36,7 +36,6 @@
   <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="rr" />
 
   <!-- interfacer -->
-  <project name="substratum/masquerade" path="packages/apps/masquerade" remote="github" revision="n" />
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
 
 </manifest>
