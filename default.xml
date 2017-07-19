@@ -304,8 +304,8 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk" remote="aosp" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" remote="aosp" />
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" />
-  <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
-  <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
+  <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
